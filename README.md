@@ -140,7 +140,7 @@ We used caching (`@st.cache_resource`) to avoid retraining the model again and a
 
 ---
 
-## Final Note
+## Final Overview
 
 This project demonstrates how machine learning models can be combined with distributed systems to build scalable recommendation systems.
 
