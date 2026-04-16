@@ -151,5 +151,5 @@ This project demonstrates how machine learning models can be combined with distr
 ## Contributors
 
 - Divyansh Rawat (M25CSA009)
-- Prapti Halder (M25CSA022)
 - Pranav Kumar J (M25CSA021)
+- Prapti Halder (M25CSA022)
