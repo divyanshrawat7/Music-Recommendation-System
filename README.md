@@ -1,4 +1,4 @@
-# Distributed Recommendation System
+# Distributed Recommendation System using Spark ALS
 
 ## About the Project
 
