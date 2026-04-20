@@ -49,9 +49,6 @@ distributed-recommendation-system-spark-als/
 ├── evaluation.py
 ├── test_project.py
 │
-├── ratings.csv
-├── movies.csv
-│
 └── README.md
 ```
 
