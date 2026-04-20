@@ -39,7 +39,7 @@ The final system uses:
 ## Project Structure
 
 ```
-MLBD-Recommendation-System/
+distributed-recommendation-system-spark-als/
 │
 ├── app.py
 ├── als_model.py
